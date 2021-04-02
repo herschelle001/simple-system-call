@@ -1,1 +1,1 @@
-# simple-system-call
+This repository contains diff of System Call Implementation in linux (2nd part of Problem Statement).
